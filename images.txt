@@ -6,3 +6,8 @@ linuxserver/jackett:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yidadaa/chatgpt-next-web:v2.13.0
+ghcr.io/danny-avila/librechat-dev:latest
+mongo
+getmeili/meilisearch:v1.7.3
+ankane/pgvector:latest
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
