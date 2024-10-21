@@ -14,3 +14,4 @@ ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
 ghcr.io/danny-avila/librechat-rag-api-dev:latest
 node:20-alpine
 pgvector/pgvector:pg16
+grafana/grafana-enterprise
