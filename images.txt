@@ -1,1 +1,1 @@
-guergeiro/pnpm:current-8
+apify/actor-node:20
