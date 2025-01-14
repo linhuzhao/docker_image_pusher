@@ -1,1 +1,1 @@
-apify/actor-node:20
+pgvector/pgvector
