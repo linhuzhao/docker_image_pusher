@@ -1,1 +1,1 @@
-pgvector/pgvector:0.8.0-pg17
+ghcr.io/intergalacticalvariable/reader:latest
