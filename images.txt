@@ -1,1 +1,1 @@
-bitnami/prometheus:3.5.0-debian-12-r2
+quay.io/prometheus/pushgateway:v1.11.1
