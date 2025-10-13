@@ -1,1 +1,1 @@
-docker.io/bitnami/spark:4.0.0-debian-12-r20
+bitnami/spark:4.0.0-debian-12-r20
