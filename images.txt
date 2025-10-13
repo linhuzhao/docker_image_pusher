@@ -1,1 +1,1 @@
-ghcr.io/getsentry/symbolicator:25.7.0
+subfuzion/netcat:latest
