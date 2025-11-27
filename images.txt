@@ -1,1 +1,1 @@
-sls-opensource-registry.cn-shanghai.cr.aliyuncs.com/loongcollector-community-edition/loongcollector:3.1.4
+helloz/onenav:1.2.2
