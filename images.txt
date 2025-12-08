@@ -1,1 +1,1 @@
-ghcr.io/tryzealot/zealot:nightly-2025-12-03
+ghcr.io/dayuanjiang/next-ai-draw-io:latest
