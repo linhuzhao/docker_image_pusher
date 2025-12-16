@@ -1,1 +1,1 @@
-getsentry/sentry:25.7.0
+ghcr.io/getsentry/sentry:25.12.0
