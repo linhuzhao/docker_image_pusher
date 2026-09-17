@@ -1,1 +1,2 @@
-ghcr.io/linhuzhao/ai-codereview-gitlab:edge@sha256:eb6869257bbb67a0184b8b3b1cb5abf3db91f9f2e2cc2d3daf9e564f006625ab
+ghcr.io/getsentry/sentry:26.8.0
+ghcr.io/getsentry/snuba:26.8.0
