@@ -1,2 +1,8 @@
-ghcr.io/getsentry/taskbroker:26.8.0
+ghcr.io/getsentry/launchpad:26.8.0
+ghcr.io/getsentry/uptime-checker:26.8.0
+ghcr.io/getsentry/vroom:26.8.0
+ghcr.io/getsentry/symbolicator:26.8.0
+
+
+
 
