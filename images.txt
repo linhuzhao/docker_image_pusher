@@ -1,2 +1,2 @@
-ghcr.io/getsentry/busybox:26.8.0
+ghcr.io/getsentry/taskbroker:26.8.0
 
