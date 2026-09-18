@@ -1,2 +1,4 @@
-ghcr.io/getsentry/sentry:26.8.0
-ghcr.io/getsentry/snuba:26.8.0
+ghcr.io/getsentry/relay:26.8.0
+ghcr.io/getsentry/vroom:26.8.0
+ghcr.io/getsentry/symbolicator:26.8.0
+
