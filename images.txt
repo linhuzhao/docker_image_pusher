@@ -1,15 +1,1 @@
-ghcr.io/getsentry/sentry:25.9.0
-ghcr.io/getsentry/snuba:25.9.0
-ghcr.io/getsentry/relay:25.9.0
-ghcr.io/getsentry/symbolicator:25.9.0
-ghcr.io/getsentry/vroom:25.9.0
-ghcr.io/getsentry/uptime-checker:25.9.0
-
-
-
-
-
-
-
-
-
+docker pull testcontainers/ryuk:0.12.0
